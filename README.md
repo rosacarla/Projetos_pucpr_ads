@@ -8,6 +8,7 @@ Este respositório reúne atividades em programação que foram realizadas duran
 ## Tópicos
 - [Programação em Java](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/poo_java)
 - [Programação IoT em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
+- [Estrutura de repetição for em Python](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/Script%20multiplos%20de%203.py)
 
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.
