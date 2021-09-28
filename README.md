@@ -5,10 +5,15 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 <img src="https://github.com/rosacarla/projetos_pucpr_ads/blob/main/imagens/pucpr.jpg">
 </p>
 
-## Tópicos
-- [Programação em Java](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/poo_java)
-- [Programação IoT em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
-- [Estrutura de repetição for em Python](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/Script%20multiplos%20de%203.py)
+## Projetos
+- [Estrutura de repetição **for** em Python](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/Script%20multiplos%20de%203.py)
+- Função e estruturas de repetição em Python [(questão geradora](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/questoes_funcoes_repeticao_python.pdf) e [artigo)](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/funcoes_repeticao_python.pdf)
+- [Programação orientada a objetos em Java](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/poo_java)
+- [A Comunicação Empresarial - case CIEB (infográfico)](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/infografico_comunicacao_empresarial.png)
+- [Notas sobre empreendedorismo e inovação - case IRDE (artigo)](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/empreendedorismo_inovacao.pdf)
+- [Teologia e sociedade: a espiritualidade em foco (infográfico)]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/infografico_espiritualidade_em_foco.pdf)
+- [Especificação de sistema IoT para irrigação precisa]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/especificao_sistema_IoT.pdf)
+- [Dispositivo IoT de sistema monitor de estufa em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
 
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.
