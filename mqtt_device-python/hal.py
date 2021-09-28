@@ -7,11 +7,11 @@ import random
 
 
 def temperatura():
-    return random.randrange(2, 32)
+    return random.randrange(2, 30)
 
 
 def umidade():
-    return random.randrange(10, 95)
+    return random.randrange(10, 96)
 
 
 def aquecedor(estado: str):
