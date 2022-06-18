@@ -1,4 +1,4 @@
-# Projetos_PUCPR_ADS
+# Projetos PUCPR - ADS
 Este respositório reúne atividades e trabalhos que foram realizadas durante o curso Tecnólogo em Análise e Desenvolvimento de Sistemas da PUCPR, nos anos de 2020 a 2021.
 
 <p align="center"> 
