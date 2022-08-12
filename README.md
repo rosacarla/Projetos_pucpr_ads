@@ -17,7 +17,7 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 - [Aplicação em React com uso de: componentes, props e CSS, para desenvolver a interface de uma calculadora]()  
 Vídeo demonstrativo da aplicação  
 <p align="center"> 
-<img src=" ">
+<img src="https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/imagens/Calculdora_em_React.gif" width="680">
 </p>
 
 ## Licença
