@@ -1,0 +1,20 @@
+/* Projeto: calculadora-app */
+/* Codigo: estilo da calculadora*/  
+/* Autora: Carla Edila Silveira */
+/* Finalidade: apresentacao grafica da calculadora */ 
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.CalculadoraApp {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 25px;
+}
+

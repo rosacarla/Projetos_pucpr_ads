@@ -1,0 +1,32 @@
+/* Projeto: calculadora-app */
+/* Codigo: estilo do botao */  
+/* Autora: Carla Edila Silveira */
+/* Finalidade: apresentacao grafica dos botoes */ 
+
+.BotaoC {
+    background: #f0a364;
+    display: flex;
+    border: 1px solid rgba(29, 27, 27, 0.05);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    font-size: 28px;
+    color: rgba(53, 52, 52, 0.5);
+    height: 20%;
+    min-width: 25%;
+}
+
+.BotaoC[data-size="2"] {
+    height: 40%; 
+}
+
+.BotaoC[data-value="null"] {
+    pointer-events: none;
+}
+
+.BotaoC:hover {
+    background: #e6e3df;
+    cursor: default;
+}
+

@@ -1,0 +1,15 @@
+/* Projeto: calculadora-app */
+/* Codigo: estilo do visor */  
+/* Autora: Carla Edila Silveira */
+/* Finalidade: apresentacao grafica do visor */ 
+
+
+.VisorC {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: #a4a4a8;
+    height: 25%;
+    color: #121312;
+    font-size: 32px;
+}

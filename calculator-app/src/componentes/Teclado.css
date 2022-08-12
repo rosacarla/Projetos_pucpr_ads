@@ -1,0 +1,12 @@
+/* Projeto: calculadora-app */
+/* Codigo: estilo do teclado */  
+/* Autora: Carla Edila Silveira */
+/* Finalidade: apresentacao grafica do teclado*/ 
+
+
+.TecladoC {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 80%;
+}
