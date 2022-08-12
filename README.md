@@ -2,7 +2,7 @@
 Este respositório reúne atividades e trabalhos que foram realizadas durante o curso Tecnólogo em Análise e Desenvolvimento de Sistemas da PUCPR, nos anos de 2020 a 2021.
 
 <p align="center"> 
-<img src="https://github.com/rosacarla/projetos_pucpr_ads/blob/main/imagens/pucpr.jpg">
+<img src="https://github.com/rosacarla/projetos_pucpr_ads/blob/main/imagens/pucpr.jpg" width="520">
 </p>
 
 ## Projetos
@@ -14,7 +14,7 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 - [Teologia e sociedade: a espiritualidade em foco (infográfico)]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/infografico_espiritualidade_em_foco.pdf)
 - [Especificação de sistema IoT para irrigação precisa]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/especificao_sistema_IoT.pdf)
 - [Dispositivo IoT de sistema monitor de estufa em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
-- [Aplicação em React com uso de: componentes, props e CSS para desenvolver a interface de uma calculadora]()  
+- [Aplicação em React com uso de: componentes, props e CSS, para desenvolver a interface de uma calculadora]()  
 Vídeo demonstrativo da aplicação  
 <p align="center"> 
 <img src=" ">
