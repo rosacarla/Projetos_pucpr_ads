@@ -14,6 +14,11 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 - [Teologia e sociedade: a espiritualidade em foco (infográfico)]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/infografico_espiritualidade_em_foco.pdf)
 - [Especificação de sistema IoT para irrigação precisa]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/especificao_sistema_IoT.pdf)
 - [Dispositivo IoT de sistema monitor de estufa em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
+- [Aplicação em React com uso de: componentes, props e CSS para desenvolver a interface de uma calculadora]()  
+Vídeo demonstrativo da aplicação  
+<p align="center"> 
+<img src=" ">
+</p>
 
 ## Licença
 Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.
