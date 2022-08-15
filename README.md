@@ -3,7 +3,9 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 
 <p align="center"> 
 <img src="https://github.com/rosacarla/projetos_pucpr_ads/blob/main/imagens/pucpr.jpg" width="520">
-</p>
+</p>  
+
+---  
 
 ## Projetos
 - [Estrutura de repetição **for** em Python](https://github.com/rosacarla/projetos_pucpr_ads/blob/main/Script%20multiplos%20de%203.py)
@@ -18,11 +20,20 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 Vídeo demonstrativo da aplicação  
 <p align="center"> 
 <img src="https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/imagens/Calculdora_em_React.gif" width="680">
-</p>
+</p>  
+
+- [Teste de versionamento de código e pull request](https://github.com/rosacarla/test-repo-git)  
+
+---  
 
 ## Licença
-Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.
+Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.  
+
+---  
 
 ## Contato
 Autora: rosa.carla@pucpr.edu.br<br>
-Link do repositório: https://github.com/rosacarla/projetos_pucpr_ads
+Link do repositório: https://github.com/rosacarla/projetos_pucpr_ads  
+
+---  
+
