@@ -24,7 +24,8 @@ Vídeo demonstrativo da aplicação
 
 - [Aplicação em React](https://github.com/rosacarla/exerciciovideo) para exemplificar componentes, props, componente do tipo classe, métodos (```render(), constructor(), bind()```), objeto ```state```
 - [Teste de versionamento de código e pull request](https://github.com/rosacarla/test-repo-git)  
-- Web service SOAP: serviços de cálculo [Calculator.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/Calculator.java) e serviços de busca [BuscadorUF.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/BuscadorUF.java)
+- Web service SOAP: serviços de cálculo [Calculator.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/Calculator.java) e serviços de busca [BuscadorUF.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/BuscadorUF.java)  
+- [Web service REST](): utiliza a especificação JAX-RS; serviços para listar, incluir e alterar a classe Empregado  
 
 
 ---  
