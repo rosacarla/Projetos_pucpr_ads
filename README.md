@@ -16,7 +16,7 @@ Este respositório reúne atividades e trabalhos que foram realizadas durante o 
 - [Teologia e sociedade: a espiritualidade em foco (infográfico)]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/infografico_espiritualidade_em_foco.pdf)
 - [Especificação de sistema IoT para irrigação precisa]( https://github.com/rosacarla/projetos_pucpr_ads/blob/main/docs/especificao_sistema_IoT.pdf)
 - [Dispositivo IoT de sistema monitor de estufa em Python](https://github.com/rosacarla/projetos_pucpr_ads/tree/main/mqtt_device-python)
-- [Aplicação em React com uso de: componentes, props e CSS, para desenvolver a interface de uma calculadora]()  
+- [Aplicação em React com uso de: componentes, props e CSS, para desenvolver a interface de uma calculadora](https://github.com/rosacarla/Projetos_pucpr_ads/tree/main/calculator-app)  
 Vídeo demonstrativo da aplicação  
 <p align="center"> 
 <img src="https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/imagens/Calculdora_em_React.gif" width="680">
@@ -25,7 +25,7 @@ Vídeo demonstrativo da aplicação
 - [Aplicação em React](https://github.com/rosacarla/exerciciovideo) para exemplificar componentes, props, componente do tipo classe, métodos (```render(), constructor(), bind()```), objeto ```state```
 - [Teste de versionamento de código e pull request](https://github.com/rosacarla/test-repo-git)  
 - Web service SOAP: serviços de cálculo [Calculator.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/Calculator.java) e serviços de busca [BuscadorUF.java](https://github.com/rosacarla/Projetos_pucpr_ads/blob/main/projectsoa/src/main/java/soap/BuscadorUF.java)  
-- [Web service REST](): utiliza a especificação JAX-RS; serviços para listar, incluir e alterar a classe Empregado  
+- [Web service REST](https://github.com/rosacarla/Projetos_pucpr_ads/tree/main/projetorest): utiliza a especificação JAX-RS; serviços para listar, incluir e alterar a classe Empregado  
 
 
 ---  
