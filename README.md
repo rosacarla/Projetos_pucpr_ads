@@ -40,4 +40,3 @@ Autora: rosa.carla@pucpr.edu.br<br>
 Link do repositório: https://github.com/rosacarla/projetos_pucpr_ads  
 
 ---  
-
